@@ -1,0 +1,1 @@
+rsync -avz ../origin/client/src/ acena:/var/www/acena-v2/client/src

@@ -1,0 +1,1 @@
+rsync -avz acena:/var/www/acena-v2/ ../origin

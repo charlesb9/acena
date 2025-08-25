@@ -1,0 +1,1 @@
+rsync -avz ../origin/server/ acena:/root/acena/acena-v2/server/
